@@ -1,0 +1,14 @@
+﻿  Struct.cpp
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(34,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(49,72): error C2440: =: невозможно преобразовать "Student" в "Student *"
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(49,30): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(40,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(64,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(71,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(79,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(87,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(118,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(122,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(126,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(159,23): error C2440: return: невозможно преобразовать "Student *" в "Student &"
+C:\Users\miair\source\repos\Struct\Struct\Struct.cpp(152,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

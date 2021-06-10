@@ -1,0 +1,8 @@
+﻿  task19array.cpp
+C:\Users\miair\source\repos\task19array\task19array\task19array.cpp(20,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task19array\task19array\task19array.cpp(48,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miair\source\repos\task19array\task19array\task19array.cpp(50,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\miair\source\repos\task19array\task19array\task19array.cpp(66,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task19array\task19array\task19array.cpp(73,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task19array\task19array\task19array.cpp(96,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  task19array.vcxproj -> C:\Users\miair\source\repos\task19array\Debug\task19array.exe

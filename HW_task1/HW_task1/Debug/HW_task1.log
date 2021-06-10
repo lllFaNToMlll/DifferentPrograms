@@ -1,0 +1,4 @@
+﻿  HW_task1.cpp
+C:\Users\miair\source\repos\HW_task1\HW_task1\HW_task1.cpp(43,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miair\source\repos\HW_task1\HW_task1\HW_task1.cpp(45,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  HW_task1.vcxproj -> C:\Users\miair\source\repos\HW_task1\Debug\HW_task1.exe

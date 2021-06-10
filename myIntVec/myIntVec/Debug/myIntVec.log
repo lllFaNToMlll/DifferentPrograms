@@ -1,0 +1,9 @@
+﻿  myIntVec.cpp
+C:\Users\miair\source\repos\myIntVec\myIntVec\myIntVec.cpp(18,1): error C3863: тип массива "Type" является неназначаемым
+          with
+          [
+              Type=char [3]
+          ]
+C:\Users\miair\source\repos\myIntVec\myIntVec\myIntVec.cpp(12): message : во время компиляции функции-члена класс шаблон "MyVector<char [3]>::MyVector(const MyVector<char [3]> &)"
+C:\Users\miair\source\repos\myIntVec\myIntVec\myIntVec.cpp(56): message : выполняется компиляция ссылки на экземпляр шаблон функции "MyVector<char [3]>::MyVector(const MyVector<char [3]> &)"
+C:\Users\miair\source\repos\myIntVec\myIntVec\myIntVec.cpp(138): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MyVector<char [3]>"

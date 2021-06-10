@@ -1,0 +1,6 @@
+﻿  FixProj.cpp
+C:\Users\miair\source\repos\FixProj\FixProj\FixProj.cpp(17,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\miair\source\repos\FixProj\FixProj\FixProj.cpp(26,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\FixProj\FixProj\FixProj.cpp(34,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\FixProj\FixProj\FixProj.cpp(39,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  FixProj.vcxproj -> C:\Users\miair\source\repos\FixProj\Debug\FixProj.exe

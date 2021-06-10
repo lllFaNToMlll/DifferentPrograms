@@ -1,0 +1,10 @@
+﻿  task7.cpp
+C:\Users\miair\source\repos\task7\task7\task7.cpp(11,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miair\source\repos\task7\task7\task7.cpp(28,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7\task7\task7.cpp(35,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7\task7\task7.cpp(38,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7\task7\task7.cpp(71,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7\task7\task7.cpp(74,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7\task7\task7.cpp(115,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7\task7\task7.cpp(118,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  task7.vcxproj -> C:\Users\miair\source\repos\task7\Debug\task7.exe

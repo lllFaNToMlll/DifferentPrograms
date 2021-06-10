@@ -1,0 +1,7 @@
+﻿  Двусвязный список.cpp
+C:\Users\miair\source\repos\Двусвязный список\Двусвязный список\Двусвязный список.cpp(57,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Двусвязный список\Двусвязный список\Двусвязный список.cpp(61,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Двусвязный список\Двусвязный список\Двусвязный список.cpp(83,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Двусвязный список\Двусвязный список\Двусвязный список.cpp(84,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\Двусвязный список\Двусвязный список\Двусвязный список.cpp(85,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Двусвязный список.vcxproj -> C:\Users\miair\source\repos\Двусвязный список\Debug\Двусвязный список.exe

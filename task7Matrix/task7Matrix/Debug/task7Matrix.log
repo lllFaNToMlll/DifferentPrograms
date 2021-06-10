@@ -1,0 +1,8 @@
+﻿  task7Matrix.cpp
+C:\Users\miair\source\repos\task7Matrix\task7Matrix\task7Matrix.cpp(31,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7Matrix\task7Matrix\task7Matrix.cpp(128,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miair\source\repos\task7Matrix\task7Matrix\task7Matrix.cpp(130,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\miair\source\repos\task7Matrix\task7Matrix\task7Matrix.cpp(147,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7Matrix\task7Matrix\task7Matrix.cpp(155,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\task7Matrix\task7Matrix\task7Matrix.cpp(178,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  task7Matrix.vcxproj -> C:\Users\miair\source\repos\task7Matrix\Debug\task7Matrix.exe

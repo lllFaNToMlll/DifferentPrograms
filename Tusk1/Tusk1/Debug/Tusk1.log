@@ -1,0 +1,3 @@
+﻿  Tusk1.cpp
+C:\Users\miair\source\repos\Tusk1\Tusk1\Tusk1.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Tusk1.vcxproj -> C:\Users\miair\source\repos\Tusk1\Debug\Tusk1.exe

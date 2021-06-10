@@ -1,0 +1,6 @@
+﻿  РК список очередь.cpp
+C:\Users\miair\source\repos\РК список очередь\РК список очередь\РК список очередь.cpp(65,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\РК список очередь\РК список очередь\РК список очередь.cpp(69,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\РК список очередь\РК список очередь\РК список очередь.cpp(86,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\РК список очередь\РК список очередь\РК список очередь.cpp(49,24): warning C4101: ptr: неиспользованная локальная переменная
+  РК список очередь.vcxproj -> C:\Users\miair\source\repos\РК список очередь\Debug\РК список очередь.exe

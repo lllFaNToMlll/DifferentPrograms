@@ -1,0 +1,8 @@
+﻿  RK_.cpp
+C:\Users\miair\source\repos\RK_\RK_\RK_.cpp(61,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\miair\source\repos\RK_\RK_\RK_.cpp(63,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\miair\source\repos\RK_\RK_\RK_.cpp(77,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\RK_\RK_\RK_.cpp(85,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\RK_\RK_\RK_.cpp(110,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\miair\source\repos\RK_\RK_\RK_.cpp(124,17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  RK_.vcxproj -> C:\Users\miair\source\repos\RK_\Debug\RK_.exe
